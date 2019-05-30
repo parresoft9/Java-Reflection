@@ -22,3 +22,7 @@ Por último usa el método invoke del API de reflection para invocar el método 
 
 Para poder usar Java Reflection tendremos que sacrificar algo y ese algo es el tema de rendimiento. El código se ejecutará bastante más despacio que un simple código con bucles.
 
+Pruebas
+4 milisegundos (WithOutReflection)
+13 milisegundos (WithReflection)
+
